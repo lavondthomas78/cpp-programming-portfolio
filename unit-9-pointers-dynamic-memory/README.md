@@ -30,10 +30,13 @@ Creates a dynamic array of test scores, validates input, calculates the average,
 - Memory management
 
 ## Files
-- `pointers.cpp` — Lab 9.1
-- `dynamic.cpp` — Lab 9.2
-- `darray.cpp` — Lab 9.3
-- `student_9_4.cpp` — Lab 9.4
+
+- [pointers.cpp](./pointers.cpp) — Lab 9.1
+- [dynamic.cpp](./dynamic.cpp) — Lab 9.2
+- [darray.cpp](./darray.cpp) — Lab 9.3
+- [student_9_4.cpp](./student_9_4.cpp) — Lab 9.4
 
 ## Screenshots
-The `screenshots` folder contains successful Visual Studio build results and console output demonstrating each lab.
+## Screenshots
+
+The [screenshots](./screenshots/) folder contains successful Visual Studio build results and console output demonstrating each lab.
