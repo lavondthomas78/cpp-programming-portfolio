@@ -25,7 +25,7 @@ This project is a console-based multiple-choice quiz game developed in C++ for C
 - Modular program design
 
 ## Source Code
-The complete program is available in `quiz_game.cpp`.
+The complete program is available in [quiz_game.cpp](./quiz_game.cpp).
 
 ## Screenshots
-The `screenshots` folder contains evidence of a successful Visual Studio build and examples of the program's main menu, quiz gameplay, and final results.
+The [screenshots](./screenshots/) folder contains evidence of a successful Visual Studio build and examples of the program's main menu, quiz gameplay, and final results.
